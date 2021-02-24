@@ -1,0 +1,8 @@
+09:25-10:00 pt gr1 Kowalski Programowanie
+10:39-11:45 wt gr2 Nowak Fizyka
+15:34-16:39 wt gr2 Nowakowski Java
+12:34-15:53 sr gr2 Kowalski Java
+10:23-19:34 cz gr1 Nowak Astronomia
+15:34-16:39 wt gr2 Nowak Java
+06:50-19:20 pt gr1 Kowalski Programowanie
+12:34-15:53 sr gr2 Kowalska Java
